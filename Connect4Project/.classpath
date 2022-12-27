@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="connect4Bot"/>
+	<classpathentry kind="src" path="MiniMax/src"/>
+	<classpathentry kind="src" path="Webcam/src/main/java"/>
+	<classpathentry kind="lib" path="jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="jSerialComm-1.3.4.jar"/>
+	<classpathentry kind="output" path="MiniMax/bin"/>
+</classpath>
