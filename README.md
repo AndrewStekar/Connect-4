@@ -1,4 +1,5 @@
 In this project, me and two classmates created a robotic Connect 4 board that plays optimal moves against a player. 
+
 Link to video: https://youtu.be/YFcao2U2tKg
 
 The project requires multiple threads for its execution.
