@@ -8,6 +8,6 @@ After every new image is saved, a second thread searches the image for the posit
 This new move will then be sent to a recursive minimax algorithm, which will calculate an optimal move for the computer to play.
 This optimal move will then be sent through the serial port to an Arduino, which will open the specified gate and drop a piece into the correct location.
 When a win or loss is detected, a red or green LED will light up to indicate the player's outcome.
-All of the transmission of data between threads is done by writing to and reading from test files.
+All of the transmission of data between threads is done by writing to and reading from text files.
 
 This project ended up being a huge success, receiving a grade of 100% and being used to advertise my school's computer science class to future students.
