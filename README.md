@@ -1,6 +1,4 @@
-In this project, me and two classmates created a robotic Connect 4 board that plays optimal moves against a player. 
-
-Link to video: https://youtu.be/YFcao2U2tKg
+In this project, two classmates and I created a robotic Connect 4 board that plays optimal moves against a player. 
 
 The project requires multiple threads for its execution.
 The first thread saves an image from a camera every 0.5 seconds and saves it to a local directory.
